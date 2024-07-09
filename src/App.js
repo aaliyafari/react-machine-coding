@@ -1,11 +1,13 @@
 // import Timer from "./assignment/Timer";
-import PasswordGenerator from './assignment/PasswordGenerator';
+// import PasswordGenerator from './assignment/PasswordGenerator';
+import ColourChangingButton from './assignment/ColourChangingButton';
 
 function App() {
   return (
     <div className="App">
     {/* <Timer/> */}
-    <PasswordGenerator/>
+    {/* <PasswordGenerator/> */}
+    <ColourChangingButton/>
     </div>
   );
 }
